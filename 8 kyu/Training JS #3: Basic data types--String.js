@@ -14,7 +14,7 @@ function banana() {
 
 // Answering questions
 function answer1() {
-  return "yes";
+  return "no";
 }
 
 function answer2() {
